@@ -10,7 +10,7 @@
 
       ?>
       <nav class="navbar">
-         <a href="beranda.php">HOME</a>
+         <a href="beranda_admin.php">HOME</a>
          <a href="produk.php">PRODUK</a>
          <a href="user.php">USER</a>
          <a href="r_penjualan.php">RIWAYAT PENJUALAN</a>
